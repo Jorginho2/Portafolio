@@ -1,0 +1,37 @@
+.display1 {
+text-align: center;
+}
+
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: center;
+}
+
+header {
+    background-image: url('../img/graduado.png');
+    background-repeat: no-repeat;
+    background-size: 100vw;
+    padding: 10rem;
+    max-height: 500px;
+    height: auto;   
+ }
+
+.carousel-item img{
+width: 8rem;
+height: 6rem;
+}
+
+.card-title {
+    font-weight: bold;
+    text-decoration: underline;
+}
+#experiencia {
+    margin-bottom: 4rem;
+}
+
+.botones {
+        
+        display: flex;
+        justify-content: center;
+      }
+}
