@@ -34,8 +34,9 @@ height: 6rem;
         display: flex;
         justify-content: center;
       }
-}
+
 
 .display1 {
 text-align: center;
+display: block;
 }
