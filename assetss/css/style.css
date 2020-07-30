@@ -29,17 +29,15 @@ height: 6rem;
     margin-bottom: 4rem;
 }
 
-.botones {
+.botones .centro{
         
         display: flex;
         justify-content: center;
       }
 
-<<<<<<< HEAD
 
 .display1 {
 text-align: center;
 display: block;
 }
-=======
->>>>>>> master
+
